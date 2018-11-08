@@ -1,6 +1,5 @@
-# Unity Repo for games that Sydnie Labrousse and Parsa Vaziri are working on.
+# Unity Repo of Sydnie Labrousse and Parsa Vaziri
 Game list:
 
-1.
+1. Stealthy boy
 
-2.
